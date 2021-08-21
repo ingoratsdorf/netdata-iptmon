@@ -1,4 +1,7 @@
 # netdata-iptmon
+
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+
 A netdata plugin for OpenWRT IPTMon
 
 A very early - but working - version of a plugin to monitor per device throughput (KBytes) of hosts monitored by IPTMon on an OpenWRT System.
